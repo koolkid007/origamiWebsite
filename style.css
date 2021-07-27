@@ -1,0 +1,67 @@
+h1{
+    background-color: aqua;
+    border-block-end-color: black;
+    font-size: 50px;
+    flex-direction: row;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.matter h5{
+    font-size: 20px;
+    color:dodgerblue;
+}
+
+.description p{
+    font-size: 20px;
+    padding-right: 700px;
+}
+
+.matter p{
+   font-size: 25px;
+   font-style: italic;
+   text-decoration: underline;
+}
+
+.matter li{
+    font-size: 20px;
+}
+
+.Otitle h2{
+    font-size: 40px;
+    font-style: italic;
+    color: antiquewhite;
+    -webkit-text-stroke: black;
+    -webkit-text-stroke-width: 2px;
+}
+
+.Otitle p{
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+.item a {
+    font-size: 20px;
+    color: indianred;
+
+}
+
+.item img{
+    display: flex;
+    float: left;
+}
+
+.item:hover img{
+    opacity: 0.33;
+} 
+
+.matter:hover img{
+    opacity: 0.33;
+} 
+
+
+
+
